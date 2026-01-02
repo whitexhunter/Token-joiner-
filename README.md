@@ -1,1 +1,1 @@
-# Token-joiner-
+# Discord server joiner
